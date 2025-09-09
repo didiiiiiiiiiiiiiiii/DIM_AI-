@@ -1,0 +1,22 @@
+# Folder bait dan log
+honeypot_traps/
+logs/
+*.log
+
+# File psyops/flag
+psyops_triggered.txt
+
+# Cache / python compiled
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
